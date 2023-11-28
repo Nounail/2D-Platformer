@@ -1,2 +1,1 @@
-# 2D-Platformer
-Project 4 for MSCH-220
+# godot-2d-jump-platformer
