@@ -4,10 +4,10 @@ Context and date
 2d Platformer for Project 4
 
 Description
-A dungeon themed 2D platformer that features different mobs 
+A dungeon-themed 2D platformer that features different mobs 
 
 ## Implementation
-Which features you included
+Which features you include
 Mobs
 Sound EFX
 background
@@ -22,8 +22,12 @@ You can play it for entertainment
 ## References
 
 Most of the game assets are from https://opengameart.org/content/2d-dungeon-and-roguelike-1
+
 Sound EFX was made by a friend 
-Start Screen crated from Adobe Firefly
+
+Start Screen created from Adobe Firefly
+
+Had a lot of help from Brother 
 
 ## Future Development
 None
